@@ -16,16 +16,21 @@ Para descomprir el archivo ejecutamos el comando `` tar -xf dockerdoomd.tar.gz `
 ## Paso 2 : Ejecutar el docker binario descargado 
 
 Para correr el docker binario que nos hemos descargado, ejecutamos el comando ``./dockerdoomd``
+<img width="451" alt="2022-05-13 (4)" src="https://user-images.githubusercontent.com/91699247/168394661-841ce5bc-1ed1-48bc-9253-2dec8fa29d2d.png">
 
 
 
 
 ## Paso 3 : Conexión con VNC
 
-Por último nos conectamos con el VNC en el puerto 5900, como muestra la imagen 
+Por último nos conectamos con el VNC en el puerto 5900 e introducimos la contraseña 1234, como muestra la imagen 
 
-
+<img width="452" alt="2022-05-13 (5)" src="https://user-images.githubusercontent.com/91699247/168394794-82e78993-aed1-44e2-9d2a-d373333a18fb.png">
 
 
 
 Como vemos el resultado es satisfactorio, hemos levantado el servidor y podemos jugar a Doom
+
+
+![Project 3](https://user-images.githubusercontent.com/91699247/168395123-b74dfda3-e6b4-4e4c-bdfc-3404b1efe7f7.jpg)
+
