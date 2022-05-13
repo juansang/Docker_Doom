@@ -31,6 +31,5 @@ Por último nos conectamos con el VNC en el puerto 5900 e introducimos la contra
 
 Como vemos el resultado es satisfactorio, hemos levantado el servidor y podemos jugar a Doom
 
-
-![Project 3](https://user-images.githubusercontent.com/91699247/168395123-b74dfda3-e6b4-4e4c-bdfc-3404b1efe7f7.jpg)
+<img width="454" alt="2022-05-13 (6)" src="https://user-images.githubusercontent.com/91699247/168395371-940cdc27-058a-41fb-ab6a-3c62e4f919d0.png">
 
